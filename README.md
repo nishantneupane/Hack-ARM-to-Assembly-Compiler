@@ -1,4 +1,4 @@
-# ArmToHack
+# ArmToHackAssembly
 
 A powerful ARM assembly to Hack assembly translator that converts ARM instruction set programs into Hack machine language code. This compiler enables ARM programs to run on the Hack computer platform through a sophisticated two-pass translation system.
 
